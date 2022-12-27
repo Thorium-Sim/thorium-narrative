@@ -1,6 +1,6 @@
 ## Contributor Licensing and Attribution
 
-The builtin narrative for Thorium and Thorium Nova Spaceship Bridge Simulators are licensed under the Creative Commons Attribution 4.0 International Public License ("CC-BY 4.0"), which is reproduced below. The following additional terms are noted for contributors and users:
+All aspects of the builtin narrative for Thorium and Thorium Nova Spaceship Bridge Simulators are licensed under the Creative Commons Attribution 4.0 International Public License ("CC-BY 4.0"), which is reproduced below. The following additional terms are noted for contributors and users:
 
 1. By contributing images, text, markdown, or other creative products (herinafter NARRATIVE CONTRIBUTIONS) to this repsitory, you represent that
 
